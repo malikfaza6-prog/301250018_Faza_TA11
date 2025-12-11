@@ -1,0 +1,22 @@
+Nama  : sdasda
+NIM   : sadasd
+Prodi : asdas
+Nama  : faza
+NIM   : 213212
+Prodi : fti
+Nama  : rian
+NIM   : sdas
+Prodi : asda
+------------------------------
+Nama  : asdasd
+NIM   : adasda
+Prodi : asda
+afasdas | Q23123 | ASDAS
+asdsd | asdasd | sasdas
+asdsd | asdasd | sasdas
+asdsd | asdasd | sasdas
+asdsd | asdasd | sasdas
+asdsd | asdasd | sasdas
+sdas | asdas | asdas
+Faza  | 301250018 | FTI
+Faza | 301250018 | FTI
